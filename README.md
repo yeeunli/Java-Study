@@ -8,4 +8,4 @@ Spring을 공부하기 전, 자바 언어를 공부한 내용을 기록하는 �
 
 ex) `Week1/Day1/TIL.md` `Week1/Day1/HelloWorldApplication.java`
 
-TIl에는 오늘 공부한 내용 정리, 블로그 링크, 내일 계획 등을 작성합니다.
+TIL에는 오늘 공부한 내용 정리, 블로그 링크, 내일 계획 등을 작성합니다.
