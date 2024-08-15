@@ -11,7 +11,7 @@
 - class는 공통의 아이, **static**이 적용
 - instance는 독립된 아이, 변함이 있기에 static이 아님 
 
-![image](./class_structure.png)
+<img width="600" alt="class structure" src="https://github.com/user-attachments/assets/4b7853a9-9368-4867-8954-42213fa4db26">
 
 #### 생성자와 this
 - 생성자
